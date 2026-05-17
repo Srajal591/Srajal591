@@ -8,7 +8,7 @@ Currently working as a Cross Application Developer at
 "agumentikgroup.com" (https://reference-url-citation.invalid/0)
 
 Previously worked with
-"adrstechnologies.com" (https://reference-url-citation.invalid/1)
+"adrstechno.com" (https://reference-url-citation.invalid/1)
 
 ---
 
