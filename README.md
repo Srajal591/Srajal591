@@ -1,99 +1,135 @@
-🚀 Full Stack Developer | Cross-Platform App Developer
+# 👋 Hi, I'm Srajal Vishwakarma
 
-Building scalable, production-ready applications with clean architecture, modern UI/UX, and industry best practices.
+### 🚀 Full Stack Software Engineer | MERN Stack Developer | Java Developer
 
-I’m a Final Year B.Tech student passionate about creating high-performance digital products that solve real-world problems. My primary focus is on Full Stack Development, Cross-Platform Applications, and scalable backend systems.
+I enjoy building scalable, secure, and user-friendly applications that solve real-world problems. From responsive frontend interfaces to robust backend services, I focus on writing clean, maintainable code and delivering production-ready software.
 
-Currently working as a Cross Application Developer at
-"agumentikgroup.com" (https://reference-url-citation.invalid/0)
-
-Previously worked with
-"adrstechno.com" (https://reference-url-citation.invalid/1)
+I'm a **B.Tech graduate in Computer Science & Engineering (2022–2026)** with hands-on experience developing full-stack web applications, REST APIs, authentication systems, role-based platforms, and database-driven solutions. I'm passionate about continuous learning, problem-solving, and building software that creates meaningful impact.
 
 ---
 
-⚡ About Me
+## 💼 Experience
 
-- 🎓 Final Year B.Tech Student
-- 💻 Full Stack & Cross-Platform Developer
-- 🚀 Worked on multiple real-world projects
-- 📱 Passionate about modern mobile & web applications
-- 🧠 Interested in scalable system architecture
-- 🔥 Always learning new technologies & best practices
+### 💻 Software Engineer Intern — Agumentik Group
 
----
+* Developed and maintained production-level web applications.
+* Built responsive user interfaces using React.js.
+* Integrated REST APIs and optimized application performance.
+* Collaborated with cross-functional teams to deliver scalable features.
 
-🛠 Tech Stack
+### 💻 Software Developer Intern — ADRS Techno Pvt. Ltd.
 
-Frontend
-
-- React.js
-- React Native
-- JavaScript
-- TypeScript
-- Tailwind CSS
-
-Backend
-
-- Node.js
-- Express.js
-- MongoDB
-- SQL
-- REST APIs
-
-Tools
-
-- Git & GitHub
-- Postman
-- VS Code
-- Firebase
-- Figma
+* Worked on real-world client projects.
+* Built reusable UI components and frontend modules.
+* Implemented authentication, API integrations, and database connectivity.
+* Improved application usability and maintainability.
 
 ---
 
-✨ What I Build
+# 🛠 Tech Stack
 
-✔ Scalable Full Stack Applications
-✔ Cross-Platform Mobile Apps
-✔ Clean & Maintainable Codebases
-✔ Modern Responsive UI/UX
-✔ Production-Ready Backend Systems
-✔ REST API Integrations
+### Frontend
 
----
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Responsive Web Design
 
-📂 Clean Project Structure
+### Backend
 
-src/
-│── components/        # Reusable UI components
-│── pages/             # Application pages/screens
-│── navigation/        # Routing & navigation
-│── services/          # API calls & business logic
-│── hooks/             # Custom reusable hooks
-│── utils/             # Helper functions
-│── constants/         # Static constants
-│── assets/            # Images, icons & fonts
-│── App.js
+* Node.js
+* Express.js
+* REST APIs
+* Authentication & Authorization
 
----
+### Databases
 
-🌱 Current Focus
+* MongoDB
+* MySQL
+* PostgreSQL
 
-- Advanced Full Stack Development
-- System Design & Scalability
-- Backend Architecture
-- Performance Optimization
-- Building Real-World SaaS Products
+### Programming Languages
 
----
+* Java
+* JavaScript
+* SQL
 
-📈 GitHub Goals
+### Tools & Technologies
 
-- Open Source Contributions
-- Building Scalable Products
-- Sharing Clean Architecture Practices
-- Creating Production-Level Applications
+* Git & GitHub
+* Postman
+* VS Code
+* Firebase
+* Figma
 
 ---
 
-⭐ Turning ideas into scalable digital experiences.
+# 🚀 What I Build
+
+* ✅ Full Stack Web Applications
+* ✅ Enterprise Dashboards
+* ✅ Recruitment & Management Systems
+* ✅ Authentication & Role-Based Access Control (RBAC)
+* ✅ RESTful API Integrations
+* ✅ Database-Driven Applications
+* ✅ Responsive & Modern UI/UX
+* ✅ Scalable Backend Services
+
+---
+
+# 📂 Development Principles
+
+* Clean Architecture
+* Reusable Components
+* Modular Folder Structure
+* Performance Optimization
+* Secure Coding Practices
+* Scalable System Design
+* Maintainable Codebase
+* User-Centric Development
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Node.js
+* System Design
+* Scalable Backend Architecture
+* Performance Optimization
+* Cloud Deployment
+* Design Patterns
+* Microservices Fundamentals
+
+---
+
+# 📊 Areas of Interest
+
+* Full Stack Development
+* Backend Engineering
+* Software Architecture
+* Web Performance
+* API Design
+* Database Optimization
+* Problem Solving & DSA
+
+---
+
+# 🎯 Career Objective
+
+I'm actively seeking opportunities as a **Software Engineer**, **Full Stack Developer**, **Backend Developer**, or **Java Developer**, where I can contribute to building scalable products, collaborate with experienced engineers, and continuously grow while delivering high-quality software.
+
+---
+
+# 📈 Current Goals
+
+* 🚀 Build impactful production-ready applications
+* 🌟 Contribute to Open Source projects
+* 📚 Continuously improve DSA & System Design skills
+* ⚡ Explore scalable software architectures
+* 💡 Learn modern backend and cloud technologies
+
+---
+
+> **"Turning ideas into scalable, reliable, and impactful software."** 🚀
