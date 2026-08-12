@@ -54,7 +54,6 @@ I'm a **B.Tech graduate in Computer Science & Engineering (2022–2026)** with h
 
 * Java
 * JavaScript
-* SQL
 
 ### Tools & Technologies
 
