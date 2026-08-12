@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srajal Vishwakarma
 
-### 🚀 Full Stack Software Engineer | MERN Stack Developer | Java Developer
+### 🚀 Full Stack Software Engineer | MERN Stack Developer .
 
 I enjoy building scalable, secure, and user-friendly applications that solve real-world problems. From responsive frontend interfaces to robust backend services, I focus on writing clean, maintainable code and delivering production-ready software.
 
