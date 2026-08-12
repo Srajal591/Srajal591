@@ -117,7 +117,7 @@ I'm a **B.Tech graduate in Computer Science & Engineering (2022–2026)** with h
 
 # 🎯 Career Objective
 
-I'm actively seeking opportunities as a **Software Engineer**, **Full Stack Developer**, **Backend Developer**, or **Java Developer**, where I can contribute to building scalable products, collaborate with experienced engineers, and continuously grow while delivering high-quality software.
+I'm actively seeking opportunities as a **Software Engineer**, **Full Stack Developer**, **Backend Developer** where I can contribute to building scalable products, collaborate with experienced engineers, and continuously grow while delivering high-quality software.
 
 ---
 
